@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.cupcake.test.CupcakeScreenNavigationTest" tests="10" failures="0" errors="0" skipped="0" time="21.337" timestamp="2025-08-13T13:20:01" hostname="localhost">
+  <properties>
+    <property name="device" value="SM-A546E - 15" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="cupcakeNavHost_clickCancelOnFlavorScreen_navigatesToStartOrderScreen" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="2.436" />
+  <testcase name="cupcakeNavHost_clickCancelOnSummaryScreen_navigatesToStartOrderScreen" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="3.577" />
+  <testcase name="cupcakeNavHost_clickBackOnFlavorScreen_navigatesToStartOrderScreen" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="1.763" />
+  <testcase name="cupcakeNavHost_clickOneCupcake_navigatesToSelectFlavorScreen" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="1.96" />
+  <testcase name="cupcakeNAvHost_verifyBackNavigationNotShownOnStartOrderScreen" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="1.07" />
+  <testcase name="cupcakeNavHost_clickBackOnPickupScreen_navigatesToFlavorScreen" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="1.98" />
+  <testcase name="cupcakeNavHost_verifyStartDestination" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="1.364" />
+  <testcase name="cupcakeNavHost_clickNextOnPickupScreen_navigatesToSummaryScreen" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="2.357" />
+  <testcase name="cupcakeNavHost_clickCancelOnPickupScreen_navigatesToStartOrderScreen" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="1.617" />
+  <testcase name="cupcakeNavHost_clickNextOnFlavorScreen_navigatesToPickupScreen" classname="com.example.cupcake.test.CupcakeScreenNavigationTest" time="1.628" />
+</testsuite>
