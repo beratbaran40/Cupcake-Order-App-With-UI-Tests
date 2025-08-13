@@ -1,0 +1,2 @@
+# Cupcake Order App With UI Tests
+A simple Jetpack Compose Android app for ordering cupcakes. Features: multi-screen navigation, order customization (quantity, flavor, pickup date), order summary, and order sharing. Built with Kotlin, Jetpack Compose, ViewModel, StateFlow, and Navigation Compose. Includes UI tests using Jetpack Compose Testing to verify navigation flow, data persistence, and UI elements.
